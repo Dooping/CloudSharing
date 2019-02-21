@@ -1,0 +1,38 @@
+> Account was added.
+
+> Premium accounts:
+> p1
+
+> Account was added.
+
+> Basic accounts:
+> b1
+
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> Basic accounts:
+> b1
+> b2
+> b3
+
+> Premium accounts:
+> p1
+> p2
+> p3
+
+> All accounts:
+> p1 (Premium)
+> b1 (Basic)
+> p2 (Premium)
+> b2 (Basic)
+> b3 (Basic)
+> p3 (Premium)
+
+> Exiting...
+

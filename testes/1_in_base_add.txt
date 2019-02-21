@@ -1,0 +1,12 @@
+ADD p1 premium
+LIST ALL
+ADD b1 basic
+LIST ALL
+ADD p2 premium
+ADD b2 basic
+
+LIST ALL
+ADD b3 basic
+ADD p3 premium
+EXIT
+

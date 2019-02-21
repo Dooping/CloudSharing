@@ -1,0 +1,17 @@
+UPDATE p1 p2 file1
+ADD p1 premium
+ADD p2 premium
+UPLOAD p1 file1 1000
+UPLOAD p1 file2 1000
+LASTUPDATE p3 file1
+LASTUPDATE p2 file4
+UPDATE p1 p3 file1
+SHARE p1 p2 file1
+UPDATE p2 p2 file1
+ADD b1 basic
+LASTUPDATE b1 file2
+SHARE p1 b1 file3
+UPDATE b1 b1 file3
+UPDATE p1 b1 file2
+EXIT
+

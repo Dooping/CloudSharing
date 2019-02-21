@@ -1,0 +1,57 @@
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> File uploaded into account.
+
+> Last update: p1
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Last update: p2
+
+> File uploaded into account.
+
+> Last update: b1
+
+> File was shared.
+
+> File was shared.
+
+> File was shared.
+
+> File was updated.
+
+> File was updated.
+
+> File was updated.
+
+> Last update: p2
+
+> Last update: b1
+
+> Account has 2 files:
+> file1.p1 (1800 MB)
+> file2.p1 (1500 MB)
+> Account has 0 shared files:
+
+> Account has 2 files:
+> file1.p2 (2000 MB)
+> file2.p2 (500 MB)
+> Account has 1 shared files:
+> file1.p1 (1800 MB)
+
+> Account has 1 files:
+> file1.b1 (1000 MB)
+> Account has 2 shared files:
+> file2.p1 (1500 MB)
+> file2.p2 (500 MB)
+
+> Exiting...
+

@@ -1,0 +1,32 @@
+> Account does not exist.
+
+> Account was added.
+
+> Account was added.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account does not exist.
+
+> File does not exist.
+
+> Account does not exist.
+
+> File was shared.
+
+> File does not exist.
+
+> Account was added.
+
+> File does not exist.
+
+> File does not exist.
+
+> File does not exist.
+
+> File not shared.
+
+> Exiting...
+

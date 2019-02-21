@@ -1,0 +1,24 @@
+ADD p1 premium
+ADD p2 premium
+ADD b1 basic
+UPLOAD p1 file1.p1 1800
+LASTUPDATE p1 file1.p1
+UPLOAD p1 file2.p1 1500
+UPLOAD p2 file1.p2 2000
+UPLOAD p2 file2.p2 500
+LASTUPDATE p2 file2.p2
+UPLOAD b1 file1.b1 1000
+LASTUPDATE b1 file1.b1
+SHARE p1 p2 file1.p1
+SHARE p1 b1 file2.p1
+SHARE p2 b1 file2.p2
+UPDATE p1 p2 file1.p1
+UPDATE p2 p2 file2.p2
+UPDATE p2 b1 file2.p2
+LASTUPDATE p1 file1.p1
+LASTUPDATE p2 file2.p2
+LIST FILES p1
+LIST FILES p2
+LIST FILES b1
+EXIT
+

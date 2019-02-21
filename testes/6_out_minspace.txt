@@ -1,0 +1,56 @@
+> No accounts.
+
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> Account with least free space: b1
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account with least free space: p1
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account with least free space: p2
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account with least free space: b1
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account with least free space: b2
+
+> File was shared.
+
+> File was shared.
+
+> File was shared.
+
+> Account with least free space: b2
+
+> File was shared.
+
+> File was shared.
+
+> Account with least free space: b1
+
+> Exiting...
+

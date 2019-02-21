@@ -1,0 +1,117 @@
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> Account was added.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 5 files:
+> file1 (2000 MB)
+> file2 (500 MB)
+> file3 (1000 MB)
+> file4 (1000 MB)
+> file5 (500 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 5 files:
+> file1 (2000 MB)
+> file2 (500 MB)
+> file3 (1000 MB)
+> file4 (1000 MB)
+> file5 (500 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 3 files:
+> file1 (1000 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 3 files:
+> file1 (1040 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 0 shared files:
+
+> File was shared.
+
+> File was shared.
+
+> File was shared.
+
+> File was shared.
+
+> File was shared.
+
+> Account has 5 files:
+> file1 (2000 MB)
+> file2 (500 MB)
+> file3 (1000 MB)
+> file4 (1000 MB)
+> file5 (500 MB)
+> Account has 5 shared files:
+> file1 (2000 MB)
+> file2 (500 MB)
+> file3 (1000 MB)
+> file4 (1000 MB)
+> file5 (500 MB)
+
+> File was shared.
+
+> File was shared.
+
+> Account has 3 files:
+> file1 (1000 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 2 shared files:
+> file5 (500 MB)
+> file5 (500 MB)
+
+> File was shared.
+
+> File was shared.
+
+> Account has 3 files:
+> file1 (1040 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 2 shared files:
+> file2 (500 MB)
+> file2 (500 MB)
+
+> Exiting...
+

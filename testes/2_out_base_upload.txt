@@ -1,0 +1,98 @@
+> Account was added.
+
+> Account was added.
+
+> All accounts:
+> p1 (Premium)
+> p2 (Premium)
+
+> Account was added.
+
+> Account was added.
+
+> All accounts:
+> p1 (Premium)
+> p2 (Premium)
+> b1 (Basic)
+> b2 (Basic)
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 5 files:
+> file1 (1000 MB)
+> file2 (640 MB)
+> file3 (1230 MB)
+> file4 (890 MB)
+> file5 (1010 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 3 files:
+> file1 (1000 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 5 files:
+> file1 (1000 MB)
+> file2 (950 MB)
+> file3 (1120 MB)
+> file4 (850 MB)
+> file5 (990 MB)
+> Account has 0 shared files:
+
+> File already exists in the account.
+
+> File already exists in the account.
+
+> File already exists in the account.
+
+> Account has 3 files:
+> file1 (1000 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 0 shared files:
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> File uploaded into account.
+
+> Account has 3 files:
+> file1 (1040 MB)
+> file2 (250 MB)
+> file3 (250 MB)
+> Account has 0 shared files:
+
+> All accounts:
+> p1 (Premium)
+> p2 (Premium)
+> b1 (Basic)
+> b2 (Basic)
+
+> Exiting...
+
